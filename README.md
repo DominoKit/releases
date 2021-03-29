@@ -1,7 +1,7 @@
 
 ### 29-11-2021
 
-DominoKit team are very happy to announce the first dominokit tools set release candidate, it took us too long but it is finally here and all our tools are now avialble on maven center
+DominoKit team are very happy to announce the first dominokit tools set release candidate, it took us too long but it is finally here and all our tools are now avialable on maven center
 
 Find below a list of all tools and released versions :
 
