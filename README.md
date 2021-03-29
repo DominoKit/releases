@@ -3,7 +3,7 @@
 
 DominoKit team are very happy to announce the first dominokit toolset release candidate, it took us too long but it is finally here and all our tools are now avialable on maven center
 
-Find below a list of all tools and released versions :
+The release supports GWT 2.9.0 and Java11, find below a list of all tools and released versions :Find below a list of all tools and released versions :
 
 |  Library/tool                                                           | Release version | development version |
 |-------------------------------------------------------------------------|-----------------|---------------------|
