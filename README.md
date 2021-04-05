@@ -5,6 +5,7 @@
 |-------------------------------------------------------------------------|-----------------|---------------------|
 | [domino-rest](https://github.com/DominoKit/domino-rest)                 | 1.0.0-RC2       | HEAD-SNAPSHOT       |
 | [domino-jackson](https://github.com/DominoKit/domino-jackson)           | 1.0.0-RC3       | HEAD-SNAPSHOT       |
+| [domino-mvp](https://github.com/DominoKit/domino-mvp)                   | 1.0.0-RC2       | HEAD-SNAPSHOT       |
 
 
 ### 29-11-2021
