@@ -1,11 +1,32 @@
+### 07-04-2021
+
+|  Library/tool                                                           | Release version     | development version |
+|-------------------------------------------------------------------------|---------------------|---------------------|
+| [domino-ui](https://github.com/DominoKit/domino-ui)                     | **1.0.0-RC2**       | HEAD-SNAPSHOT       |
+| [domino-rest](https://github.com/DominoKit/domino-rest)                 | **1.0.0-RC3**       | HEAD-SNAPSHOT       |
+| [domino-jackson](https://github.com/DominoKit/domino-jackson)           | 1.0.0-RC3           | HEAD-SNAPSHOT       |
+| [domino-mvp](https://github.com/DominoKit/domino-mvp)                   | **1.0.0-RC3**       | HEAD-SNAPSHOT       |
+| [domino-history](https://github.com/DominoKit/domino-history)           | **1.0.0-RC3**       | HEAD-SNAPSHOT       |
+| [domino-aggregator](https://github.com/DominoKit/domino-aggregator)     | 1.0.2               | HEAD-SNAPSHOT       |
+| [domino-slf4j-logger](https://github.com/DominoKit/domino-slf4j-logger) | 1.0.2               | HEAD-SNAPSHOT       |
+| [domino-keycloak](https://github.com/DominoKit/domino-keycloak)         | 1.0.0               | HEAD-SNAPSHOT       |
+| [domino-immutables](https://github.com/DominoKit/domino-immutables)     | 1.0.0               | HEAD-SNAPSHOT       |
+
+
 ### 05-04-2021
 
 
-|  Library/tool                                                           | Release version | development version |
-|-------------------------------------------------------------------------|-----------------|---------------------|
-| [domino-rest](https://github.com/DominoKit/domino-rest)                 | 1.0.0-RC2       | HEAD-SNAPSHOT       |
-| [domino-jackson](https://github.com/DominoKit/domino-jackson)           | 1.0.0-RC3       | HEAD-SNAPSHOT       |
-| [domino-mvp](https://github.com/DominoKit/domino-mvp)                   | 1.0.0-RC2       | HEAD-SNAPSHOT       |
+|  Library/tool                                                           | Release version     | development version |
+|-------------------------------------------------------------------------|---------------------|---------------------|
+| [domino-ui](https://github.com/DominoKit/domino-ui)                     | 1.0.0-RC1           | HEAD-SNAPSHOT       |
+| [domino-rest](https://github.com/DominoKit/domino-rest)                 | **1.0.0-RC2**       | HEAD-SNAPSHOT       |
+| [domino-jackson](https://github.com/DominoKit/domino-jackson)           | **1.0.0-RC3**       | HEAD-SNAPSHOT       |
+| [domino-mvp](https://github.com/DominoKit/domino-mvp)                   | **1.0.0-RC2**       | HEAD-SNAPSHOT       |
+| [domino-history](https://github.com/DominoKit/domino-history)           | 1.0.0-RC2           | HEAD-SNAPSHOT       |
+| [domino-aggregator](https://github.com/DominoKit/domino-aggregator)     | 1.0.2               | HEAD-SNAPSHOT       |
+| [domino-slf4j-logger](https://github.com/DominoKit/domino-slf4j-logger) | 1.0.2               | HEAD-SNAPSHOT       |
+| [domino-keycloak](https://github.com/DominoKit/domino-keycloak)         | 1.0.0               | HEAD-SNAPSHOT       |
+| [domino-immutables](https://github.com/DominoKit/domino-immutables)     | 1.0.0               | HEAD-SNAPSHOT       |
 
 
 ### 29-11-2021
