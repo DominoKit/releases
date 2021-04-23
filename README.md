@@ -29,7 +29,7 @@
 | [domino-immutables](https://github.com/DominoKit/domino-immutables)     | 1.0.0               | HEAD-SNAPSHOT       |
 
 
-### 29-11-2021
+### 29-03-2021
 
 DominoKit team are very happy to announce the first dominokit toolset release candidate, it took us too long but it is finally here and all our tools are now avialable on maven center
 
